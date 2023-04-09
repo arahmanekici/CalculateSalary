@@ -22,9 +22,8 @@ Eğer çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 
 Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 
-
-============================
 Örnek
+============================
 ============================
 
 Adı : kemal
